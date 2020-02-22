@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BatmanProject</string>
+    <string name="dialogInternetWarning">No Valid Internet Connection</string>
+</resources>

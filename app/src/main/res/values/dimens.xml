@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txt_header_size">25sp</dimen>
+    <dimen name="generalMargin">20dp</dimen>
+    <dimen name="generalMarginHor">35dp</dimen>
+    <dimen name="titleTxtSize">18sp</dimen>
+    <dimen name="descriptionTxtSize">11sp</dimen>
+</resources>
